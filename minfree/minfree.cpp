@@ -36,8 +36,8 @@ T minfree(vector<T> &v)
 int main()
 {
     using T = unsigned int;
-    const T N_small = 20;
-    const T N_large = 1000000;
+    const unsigned int N_small = 20;
+    const unsigned int N_large = 1000000;
 
     duration_type dt;
 
